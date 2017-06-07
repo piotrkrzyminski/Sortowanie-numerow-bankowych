@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1496830613 source:c:\users\piotrek\documents\programowanie c++\zadanka\kontabankowe\main.cpp
+	<iostream>
+	<fstream>
+	"Konto.h"
+	"sortedList.h"
+
+1496829607 c:\users\piotrek\documents\programowanie c++\zadanka\kontabankowe\konto.h
+	<string>
+	<stdexcept>
+
+1496829645 source:c:\users\piotrek\documents\programowanie c++\zadanka\kontabankowe\konto.cpp
+	"Konto.h"
+
+1496830004 c:\users\piotrek\documents\programowanie c++\zadanka\kontabankowe\sortedlist.h
+	"Konto.h"
+
+1496830041 source:c:\users\piotrek\documents\programowanie c++\zadanka\kontabankowe\sortedlist.cpp
+	<iostream>
+	<stdlib.h>
+	"sortedList.h"
+
